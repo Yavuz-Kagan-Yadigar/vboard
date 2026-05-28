@@ -1,23 +1,6 @@
 # vboard
-*A virtual keyboard for Linux with Wayland support and extensive customization options.*
-+Additional Buttons, TUrkish Layout (can be edited easily directly with in line editing)
-## Overview
-vboard is a lightweight, customizable virtual keyboard designed for Linux systems with Wayland support. It provides an on-screen keyboard solution that's especially useful for:
-
-- Touchscreen devices without physical keyboards
-- Systems with malfunctioning physical keyboards
-- Accessibility needs
-- Kiosk applications
-
-The keyboard supports customizable colors, opacity settings, and can be easily modified to support different layouts.
-
-## Features
-- **Customizable appearance**: Change background color, text color, and opacity
-- **Persistent settings**: Configuration is saved between sessions
-- **Modifier key support**: Use Shift, Ctrl, Alt and Super keys
-- **Hold for repetitive clicks**: Keep holding the mouse button to trigger repeated clicks
-- **Compact interface**: Headerbar with minimal controls to save screen space
-- **Always-on-top**: Stays above other windows for easy access
+Enhanced with caps and sihft respecting label, better ui, custom command and printscreen buttons customized in config. 
+<img width="1131" height="746" alt="image" src="https://github.com/user-attachments/assets/1b0b0ba1-79e9-4b25-97cb-6871b254ab07" />
 
 ### **1. Install Dependencies**  
 Install  `python-uinput steam-devices` packages using your package manager:  
